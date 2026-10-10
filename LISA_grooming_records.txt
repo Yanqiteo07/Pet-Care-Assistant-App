@@ -1,0 +1,6 @@
+Pet Name: Lala
+Description: ragdoll
+Date: 2025-12-19
+Time: 21:00
+Task: Brushing
+----------------------------------------
